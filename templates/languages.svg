@@ -10,8 +10,6 @@ svg {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
   fill: #1b2431;
-  stroke: rgb(225, 228, 232);
-  stroke-width: 1px;
   rx: 6px;
   ry: 6px;
 }
@@ -27,8 +25,8 @@ h2 {
   line-height: 24px;
   font-size: 16px;
   font-weight: 600;
-  color: rgb(36, 41, 46);
-  fill: rgb(36, 41, 46);
+  color: rgb(255, 255, 255);
+  fill: rgb(255, 255, 255);
 }
 
 ul {
@@ -64,7 +62,7 @@ div.ellipsis {
 }
 
 .octicon {
-  fill: rgb(88, 96, 105);
+  fill: rgb(255, 255, 255);
   margin-right: 0.5ch;
   vertical-align: top;
 }
@@ -91,7 +89,7 @@ div.ellipsis {
 }
 
 .percent {
-  color: rgb(88, 96, 105)
+  color: rgb(255, 255, 255)
 }
 </style>
 <g transform="translate(5, 5)">
